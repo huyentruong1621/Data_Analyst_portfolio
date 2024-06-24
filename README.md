@@ -12,3 +12,8 @@ In this section i will list data analytics project briefly describing the techno
 **Language:** Vietnamese
 
 **Description:** The dataset contains records of 
+
+## Contact
+**Email:** huyentruong.wo@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/huyen-truong-a6864620b/
